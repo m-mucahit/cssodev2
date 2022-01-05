@@ -1,0 +1,44 @@
+.container {
+    display: block;
+    text-align: -webkit-center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search {
+    width: 710.48;
+    height: 62.4;
+}
+.links{
+    display: flex;
+    width: auto;
+    text-align: -webkit-center;
+    justify-content: center;
+    margin-top: 2px;
+}
+.box {
+    float: left;
+    margin: 0.5px;
+    padding-top: 10px;
+}
+.box1 {
+    background-color: rgb(126, 229, 218);
+    width: 510px;
+    height: 75px;
+    font-size: 16px;
+}
+.box2 {
+    background-color: rgb(112, 204, 194);
+    width: 278px;
+    height: 75px;
+    font-size: 13px;
+}
+.box3 {
+    background-color: rgb(98, 179, 170);
+    width: 580px;
+    height: 75px;
+    font-size: 13px;
+}
+.footer {
+    font-size: 13px;
+    text-align: center;
+}
